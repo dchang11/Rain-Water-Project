@@ -36,6 +36,13 @@ img {
   margin: 1em auto;
 }
 
+/* Timeline Image Row */
+.image-row{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+
 /* Footer styling */
 footer {
   background: #333;
