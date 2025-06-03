@@ -45,7 +45,7 @@ img {
 }
 .image-row img{
   width: 45%; /* each image takes about __% the container*/
-  max-width: 300px; /*so images are not too fat */
+  max-width: 400px; /*so images are not too fat */
   height: auto; /*no stretching, aspect ratio maintained */
   border-radius: 8px; /*optional, adds rounded corners */
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* optional, adds soft shadow for depth */
